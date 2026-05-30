@@ -6,15 +6,15 @@
 
 ## 📁 筆記結構
 
-| 筆記 | 內容 |
-|---|---|
-| `航空聯盟總覽 MOC.md` | 總索引（Map of Content），三聯盟一覽、跨聯盟待遇對照、選盟建議 |
-| `星空聯盟 Star Alliance.md` | 26 家成員、熱門航線、Gold/Silver 待遇、FFP 達標門檻 |
-| `寰宇一家 Oneworld.md` | 16 家成員、熱門航線、Emerald/Sapphire/Ruby 待遇、FFP 門檻 |
-| `天合聯盟 SkyTeam.md` | 18 家成員、熱門航線、Elite Plus/Elite 待遇、FFP 門檻 |
-| `三大聯盟會員分級 Summary.md` | 跨聯盟等級橫向對齊總表 |
-| `跨聯盟修行性價比排行.md` | 用最低成本拿各聯盟高卡的路徑排行 |
-| `高卡匹配攻略 Status Match.md` | Status Match / Challenge 攻略 |
+| 筆記                       | 內容                                          |
+| ------------------------ | ------------------------------------------- |
+| `航空聯盟總覽 MOC.md`          | 總索引（Map of Content），三聯盟一覽、跨聯盟待遇對照、選盟建議      |
+| `星空聯盟 Star Alliance.md`  | 26 家成員、熱門航線、Gold/Silver 待遇、FFP 達標門檻         |
+| `寰宇一家 Oneworld.md`       | 16 家成員、熱門航線、Emerald/Sapphire/Ruby 待遇、FFP 門檻 |
+| `天合聯盟 SkyTeam.md`        | 18 家成員、熱門航線、Elite Plus/Elite 待遇、FFP 門檻      |
+| `三大聯盟會員分級 Summary.md`    | 跨聯盟等級橫向對齊總表                                 |
+| `跨聯盟修行性價比排行.md`          | 用最低成本拿各聯盟高卡的路徑排行                            |
+| `高卡匹配攻略 Status Match.md` | Status Match / Challenge 攻略                 |
 
 入口從 `航空聯盟總覽 MOC.md` 開始，所有筆記以 Wiki-link 互相串連。
 

@@ -10,13 +10,13 @@ aliases:
   - Oneworld
   - 寰宇
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 status: verified
 ---
 
 # 🌐 寰宇一家 Oneworld
 
-> 上層索引：[[航空聯盟總覽 MOC]]　｜　對照組：[[星空聯盟 Star Alliance]]、[[天合聯盟 SkyTeam]]
+> 上層 MOC：[[航空聯盟總覽 MOC]] ｜ 橫向對照：[[三大聯盟會員分級 Summary]]
 
 ## 簡介
 - **成立**：1999 年。成員數最精簡(16 家)，但**頂級服務口碑最強**（國泰、日航、卡達、英航）。
@@ -27,21 +27,22 @@ status: verified
 
 | 區域 | 主要成員 | 樞紐 |
 |---|---|---|
-| 亞太 | 國泰航空 Cathay、日本航空 JAL、馬來西亞航空、斯里蘭卡航空、澳洲航空 Qantas、**斐濟航空 Fiji** | **HKG** / HND·NRT / KUL / CMB / SYD·MEL / NAN |
+| 亞太 | [[國泰航空 Cathay Pacific|國泰航空 Cathay]]、日本航空 JAL、馬來西亞航空、斯里蘭卡航空、澳洲航空 Qantas、**斐濟航空 Fiji**、*[[星宇航空 STARLUX Airlines|星宇航空 STARLUX]] (申請中)* | **HKG** / HND·NRT / KUL / CMB / SYD·MEL / NAN / *TPE* |
 | 北美 | 美國航空 American、阿拉斯加航空 Alaska、**夏威夷航空 Hawaiian** | DFW·MIA·ORD… / SEA / HNL |
 | 歐洲 | 英國航空 British Airways、西班牙 Iberia、芬蘭航空 Finnair | **LHR** / MAD / **HEL** |
 | 中東·非洲 | 卡達航空 Qatar、**阿曼航空 Oman Air**、摩洛哥皇家航空、約旦皇家航空 | **DOH** / MCT / CMN / AMM |
 
 > [!warning] 近期成員變動（已查證 oneworld 官方）
 > - **阿曼航空 Oman Air**：2025-06-30 加入（第 15 家，第三家中東成員）。
-> - **斐濟航空 Fiji Airways**：2025-04-01 由 oneworld connect **升為正式成員**（用 AAdvantage 計畫）。
+> - **斐濟航空 Fiji Airways**：2025-04-01 由 oneworld connect **升為正式成員**（用 AAdvantage 計藏）。
 > - **夏威夷航空 Hawaiian**：2026-04 加入（第 16 家，第三家美籍成員；被阿拉斯加母公司收購後加入）。
+> - **星宇航空 STARLUX**：目前為獨立航空公司，但以加入 oneworld 為首要目標，並已與同屬聯盟的阿拉斯加航空與美國航空展開聯營與合作。
 > - **S7 航空（俄）**：2022-04 起暫停會籍至今。
 > - **國泰**：舊「馬可孛羅會」已整併為新「Cathay 會員」體系。
 
 ## 熱門航線（全球視角）
 - **卡達 Qatar（DOH）**：以杜哈單點連結歐洲/非洲/南亞/東南亞，常年「全球最佳航空」。
-- **國泰 Cathay（HKG）**：跨太平洋(HKG–北美)、HKG–LHR、亞洲區域密集。
+- **[[國泰航空 Cathay Pacific|國泰 Cathay]]（HKG）**：跨太平洋(HKG–北美)、HKG–LHR、亞洲區域密集。
 - **英航 BA（LHR）**：歐洲與跨大西洋門戶（LHR–北美班次極密）。
 - **美航 American**：北美最大境內網（DFW/CLT/MIA/ORD/PHX 等樞紐）。
 - **日航 JAL（HND/NRT）**：東京進出北美/亞洲。
@@ -93,13 +94,21 @@ status: verified
 | Platinum | **Emerald** | 540(12m維持)/1,080(24m) | 同 |
 - 每期至少 20% Qpoints 須來自卡達自營航班(或飛 4 段)。
 
-### 國泰 Cathay 會員（Status Points，取代馬可孛羅會）
+### [[國泰航空 Cathay Pacific]] (Cathay 會員)（取代馬可孛羅會）
 | 卡別 | 對應寰宇 | 門檻(Status Points) |
 |---|---|---|
 | Silver | **Ruby** | 300 |
 | Gold | **Sapphire** | 600 |
 | Diamond | **Emerald** | 1,200 |
 - **2027 將再改制**：新增 Diamond Exec(2,400 分→Emerald)、改固定曆年、超額點數可滾存。
+
+### [[星宇航空 STARLUX Airlines]] (COSMILE)（預計對應）
+| 卡別 | 預計對應寰宇 | 升級門檻 (12個月) | 續卡門檻 (24個月) |
+|---|---|---|---|
+| ADVENTURER | **Ruby** | **30,000 哩** 或 **25 段** | **40,000 哩** 或 **40 段** |
+| EXPLORER | **Sapphire** | **50,000 哩** 或 **50 段** | **80,000 哩** 或 **80 段** |
+| INSIGHTER | **Emerald** | **120,000 哩** 或 **100 段** | **200,000 哩** 或 **140 段** |
+- 目前尚未正式加入，但其常客計畫與會籍結構完全比照主流聯盟設計。
 
 ### 日本航空 JAL（FLY ON Points，FOP）
 | 卡別 | 對應寰宇 | 門檻(FOP，含 JAL 集團最低) |

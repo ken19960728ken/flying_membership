@@ -10,13 +10,13 @@ aliases:
   - 會員分級總表
   - 聯盟等級對照
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 status: verified
 ---
 
 # 🏅 三大聯盟會員分級 Summary
 
-> 上層索引：[[航空聯盟總覽 MOC]]
+> 上層 MOC：[[航空聯盟總覽 MOC]]
 > 細節：[[星空聯盟 Star Alliance]]、[[寰宇一家 Oneworld]]、[[天合聯盟 SkyTeam]]
 > 進階：[[跨聯盟修行性價比排行]]、[[高卡匹配攻略 Status Match]]
 
@@ -62,8 +62,8 @@ status: verified
 ### 達標口徑正在「消費化」（重要趨勢）
 | 口徑 | 代表計畫 | 對修行者 |
 |---|---|---|
-| **哩程制**(飛行距離×艙等) | ANA、長榮、大韓、土耳其、愛琴海、Flying Blue(XP) | 友善，可規劃便宜票 |
-| **消費制**(票價金額) | 達美 MQD、英航 £=TP、芬蘭 €=TP、卡達 Qpoints、華航/國泰 Status Points | 不友善，便宜票拿不到分 |
+| **哩程制**(飛行距離×艙等) | ANA、[[長榮航空 EVA Air|長榮]]、大韓、土耳其、愛琴海、Flying Blue(XP) | 友善，可規劃便宜票 |
+| **消費制**(票價金額) | 達美 MQD、英航 £=TP、芬蘭 €=TP、卡達 Qpoints、[[中華航空 China Airlines|華航]]/[[國泰航空 Cathay Pacific|國泰]] Status Points | 不友善，便宜票拿不到分 |
 | **段數制**(看航段數) | Air Europa Suma、部分越南/東航 | 短途堆段最省 |
 
 ### 三個必懂規則
@@ -79,7 +79,7 @@ status: verified
 |---|---|---|
 | Star **Gold** | 土耳其 Miles&Smiles Elite | 40,000 status miles / 2 年有效 |
 | Star **Gold** | 漢莎 Senator | 2,000 pts + 1,000 qualifying pts(曆年) |
-| Oneworld **Sapphire** | 國泰 Gold | 600 Status Points |
+| Oneworld **Sapphire** | [[國泰航空 Cathay Pacific|國泰 Gold]] | 600 Status Points |
 | Oneworld **Sapphire** | 卡達 Gold | 300 Qpoints(20% 須卡達自飛) |
 | Oneworld **Emerald** | 英航 Gold | 20,000 Tier Points(≈£20,000) |
 | SkyTeam **Elite Plus** | 法荷航 Flying Blue Gold | Silver 後再 +180 XP |

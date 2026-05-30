@@ -5,10 +5,11 @@
 .Spotlight-V100
 .Trashes
 
-# ===== Claude / Claudian =====
+# ===== Claude / Claudian / Gemini =====
 # 含 AI 對話紀錄與本機 agent 設定，務必排除（隱私）
 .claude/
 .claudian/
+gemini-scribe/
 
 # ===== Obsidian =====
 # 只保留核心 Markdown 筆記；Obsidian 設定（外掛/主題/工作區）自行管理，不上傳

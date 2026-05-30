@@ -10,13 +10,13 @@ aliases:
   - Star Alliance
   - 星盟
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 status: verified
 ---
 
 # ⭐ 星空聯盟 Star Alliance
 
-> 上層索引：[[航空聯盟總覽 MOC]]　｜　對照組：[[寰宇一家 Oneworld]]、[[天合聯盟 SkyTeam]]
+> 上層 MOC：[[航空聯盟總覽 MOC]] ｜ 橫向對照：[[三大聯盟會員分級 Summary]]
 
 ## 簡介
 - **成立**：1997 年，全球**第一個**航空聯盟，也是目前**規模最大**（26 家正式成員）。
@@ -27,7 +27,7 @@ status: verified
 
 | 區域 | 主要成員 | 樞紐 |
 |---|---|---|
-| 亞太 | 全日空 ANA、新加坡航空 SIA、泰國航空 THAI、長榮航空 EVA、中國國航 Air China、深圳航空、紐西蘭航空 Air NZ、印度航空 Air India | HND·NRT / SIN / BKK / TPE / PEK / AKL / DEL |
+| 亞太 | 全日空 ANA、新加坡航空 SIA、泰國航空 THAI、[[長榮航空 EVA Air|長榮航空 EVA]]、中國國航 Air China、深圳航空、紐西蘭航空 Air NZ、印度航空 Air India | HND·NRT / SIN / BKK / TPE / PEK / AKL / DEL |
 | 北美 | 聯合航空 United、加拿大航空 Air Canada | 美國多樞紐 / YYZ·YVR |
 | 歐洲 | 漢莎 Lufthansa、**Lufthansa City Airlines**、瑞士 SWISS、奧地利 Austrian、布魯塞爾、北歐已離開、土耳其航空 Turkish、葡萄牙 TAP、波蘭 LOT、克羅埃西亞、愛琴海 Aegean、**ITA 義大利航空** | FRA·MUC / ZRH / VIE / **IST** / LIS / WAW / FCO |
 | 中東·非洲 | 埃及航空 EgyptAir、衣索比亞航空 Ethiopian、南非航空 | CAI / ADD / JNB |
@@ -47,7 +47,7 @@ status: verified
 - **聯合 United**：北美最強境內網（SFO/ORD/EWR/IAH/DEN 等樞紐）+ 跨太平洋、跨大西洋。
 - **新航 SIA（SIN）**：SIN–LHR、SIN–JFK（全球最長航線級別），東南亞門戶。
 - **ANA（HND/NRT）**：日本進出北美/歐洲主力。
-- **長榮 EVA（TPE）**：TPE–LAX/SFO 跨太平洋、TPE–歐洲、北亞密集。
+- **[[長榮航空 EVA Air|長榮 EVA]]（TPE）**：TPE–LAX/SFO 跨太平洋、TPE–歐洲、北亞密集。
 - **紐西蘭航空（AKL）**：南太平洋門戶。
 
 ## 聯盟會員等級與待遇（已查證 staralliance.com）
@@ -76,7 +76,7 @@ status: verified
 | Premier Silver | **Silver** | 15 PQF + 5,000 PQP，或純 6,000 PQP |
 | Premier Gold | **Gold** | 30 PQF + 10,000 PQP，或純 12,000 PQP |
 | Premier Platinum | **Gold** | 45 PQF + 15,000 PQP，或純 18,000 PQP |
-| Premier 1K | **Gold** | 60 PQF + 22,000 PQP，或純 28,000 PQP |
+| Premier 1K | **Gold** | 60 PQF + 22,000 PQP，or純 28,000 PQP |
 - PQF=合格航段、PQP=合格點數(約等於消費美元)。
 
 ### 漢莎 Lufthansa Miles & More（曆年制，雙指標須同時達標）
@@ -110,12 +110,12 @@ status: verified
 | Elite | **Gold** | 40,000 Status Miles |
 | Elite Plus | Gold(頂級) | 80,000 Status Miles |
 
-### 長榮航空 Infinity MileageLands（台灣首選，按自營國際航班）
+### [[長榮航空 EVA Air]] (Infinity MileageLands)（台灣首選，按自營國際航班）
 | 卡別 | 對應星盟 | 升等門檻 | 續卡門檻 |
 |---|---|---|---|
 | Silver 銀卡 | **Silver** | 30,000 SM + 4 段，或 26 段 | 40,000 SM 或 42 段 |
 | Gold 金卡 | **Gold** | 50,000 SM 或 50 段 | 80,000 SM 或 80 段 |
-| Diamond 鑽石卡 | **Gold** | 120,000 SM 或 100 段 | 200,000 SM 或 140 段 |
+| Diamond 鑽石卡 | **Gold** | 120,000 SM 或 100 段 | 200,000 SM 或 1400 段 |
 - 星盟夥伴航班**不計**升等/續卡，僅長榮/立榮/UNI Air 國際航班計段。
 
 ---

@@ -27,7 +27,7 @@ status: verified
 
 | 區域 | 主要成員 | 樞紐 |
 |---|---|---|
-| 亞太 | 大韓航空 Korean Air、中國東方 China Eastern、廈門航空 XiamenAir、越南航空 Vietnam Airlines、中華航空 China Airlines、印尼鷹航 Garuda | **ICN** / PVG / XMN / HAN·SGN / TPE / CGK |
+| 亞太 | 大韓航空 Korean Air、中國東方 China Eastern、廈門航空 XiamenAir、越南航空 Vietnam Airlines、[[中華航空 China Airlines]]、印尼鷹航 Garuda | **ICN** / PVG / XMN / HAN·SGN / TPE / CGK |
 | 北美·中南美 | 達美航空 Delta、墨西哥航空 Aeroméxico、阿根廷航空 | 美國多樞紐 / MEX / EZE |
 | 歐洲 | 法國航空 Air France、荷蘭皇家航空 KLM、西班牙歐洲航空 Air Europa、北歐航空 SAS、羅馬尼亞 TAROM | **CDG** / **AMS** / MAD / CPH·OSL·ARN / OTP |
 | 中東·非洲 | 沙烏地航空 Saudia、中東航空 MEA、肯亞航空 | JED·RUH / BEY / NBO |
@@ -95,9 +95,12 @@ status: verified
 - ⚠️ 與多數「年度精英」不同：大韓的 SkyTeam Elite Plus **須累積到終身 50 萬哩**才達標，門檻極高。
 
 ### 中華航空 華夏會員 Dynasty Flyer（2025 改「狀態點數制」，台灣首家）
+
+> 💡 詳細航空公司與會員權益分析請參見：[[中華航空 China Airlines]]
+
 | 新卡別(舊名) | 對應天合 | 門檻(Status Points) |
 |---|---|---|
-| Gold(金卡) | **Elite** | 360(至少 50% 來自華航/華信自飛國際線) |
+| Gold(金卡) | **Elite** | 360(至少 50% 來自華航/華信自營國際線) |
 | Emerald(翡翠卡) | **Elite Plus** | 720(升)/1,150(24m 續) |
 | Paragon(晶鑽卡) | **Elite Plus** | 2,240(24m 續) |
 - 2025–2027 設兩年過渡保護(現有卡展延、不降級)；Gold 約等於 15 個單程航段。
