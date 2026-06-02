@@ -10,7 +10,7 @@ aliases:
   - Star Alliance
   - 星盟
 created: 2026-05-29
-updated: 2026-05-30
+updated: 2026-06-03
 status: verified
 ---
 
@@ -27,7 +27,7 @@ status: verified
 
 | 區域 | 主要成員 | 樞紐 |
 |---|---|---|
-| 亞太 | 全日空 ANA、新加坡航空 SIA、泰國航空 THAI、[[長榮航空 EVA Air|長榮航空 EVA]]、中國國航 Air China、深圳航空、紐西蘭航空 Air NZ、印度航空 Air India | HND·NRT / SIN / BKK / TPE / PEK / AKL / DEL |
+| 亞太 | [[全日空 ANA]]、新加坡航空 SIA、泰國航空 THAI、[[長榮航空 EVA Air|長榮航空 EVA]]、中國國航 Air China、[[深圳航空 Shenzhen Airlines|深圳航空]]、紐西蘭航空 Air NZ、印度航空 Air India、*[[韓亞航空 Asiana Airlines|韓亞 Asiana]](2026-12 轉天合)* | HND·NRT / SIN / BKK / TPE / PEK / SZX / AKL / DEL / *ICN* |
 | 北美 | 聯合航空 United、加拿大航空 Air Canada | 美國多樞紐 / YYZ·YVR |
 | 歐洲 | 漢莎 Lufthansa、**Lufthansa City Airlines**、瑞士 SWISS、奧地利 Austrian、布魯塞爾、北歐已離開、土耳其航空 Turkish、葡萄牙 TAP、波蘭 LOT、克羅埃西亞、愛琴海 Aegean、**ITA 義大利航空** | FRA·MUC / ZRH / VIE / **IST** / LIS / WAW / FCO |
 | 中東·非洲 | 埃及航空 EgyptAir、衣索比亞航空 Ethiopian、南非航空 | CAI / ADD / JNB |

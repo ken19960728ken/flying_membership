@@ -10,7 +10,7 @@ aliases:
   - SkyTeam
   - 天合
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-03
 status: verified
 ---
 
@@ -27,7 +27,7 @@ status: verified
 
 | 區域 | 主要成員 | 樞紐 |
 |---|---|---|
-| 亞太 | 大韓航空 Korean Air、中國東方 China Eastern、廈門航空 XiamenAir、越南航空 Vietnam Airlines、[[中華航空 China Airlines]]、印尼鷹航 Garuda | **ICN** / PVG / XMN / HAN·SGN / TPE / CGK |
+| 亞太 | [[大韓航空 Korean Air]]、中國東方 China Eastern、[[廈門航空 XiamenAir]]、越南航空 Vietnam Airlines、[[中華航空 China Airlines]]、印尼鷹航 Garuda | **ICN** / PVG / XMN / HAN·SGN / TPE / CGK |
 | 北美·中南美 | 達美航空 Delta、墨西哥航空 Aeroméxico、阿根廷航空 | 美國多樞紐 / MEX / EZE |
 | 歐洲 | 法國航空 Air France、荷蘭皇家航空 KLM、西班牙歐洲航空 Air Europa、北歐航空 SAS、羅馬尼亞 TAROM | **CDG** / **AMS** / MAD / CPH·OSL·ARN / OTP |
 | 中東·非洲 | 沙烏地航空 Saudia、中東航空 MEA、肯亞航空 | JED·RUH / BEY / NBO |

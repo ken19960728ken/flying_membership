@@ -10,7 +10,7 @@ aliases:
   - Oneworld
   - 寰宇
 created: 2026-05-29
-updated: 2026-05-30
+updated: 2026-06-03
 status: verified
 ---
 
@@ -27,7 +27,7 @@ status: verified
 
 | 區域 | 主要成員 | 樞紐 |
 |---|---|---|
-| 亞太 | [[國泰航空 Cathay Pacific|國泰航空 Cathay]]、日本航空 JAL、馬來西亞航空、斯里蘭卡航空、澳洲航空 Qantas、**斐濟航空 Fiji**、*[[星宇航空 STARLUX Airlines|星宇航空 STARLUX]] (申請中)* | **HKG** / HND·NRT / KUL / CMB / SYD·MEL / NAN / *TPE* |
+| 亞太 | [[國泰航空 Cathay Pacific|國泰航空 Cathay]]、[[日本航空 JAL]]、馬來西亞航空、斯里蘭卡航空、澳洲航空 Qantas、**斐濟航空 Fiji**、*[[星宇航空 STARLUX Airlines|星宇航空 STARLUX]] (申請中)* | **HKG** / HND·NRT / KUL / CMB / SYD·MEL / NAN / *TPE* |
 | 北美 | 美國航空 American、阿拉斯加航空 Alaska、**夏威夷航空 Hawaiian** | DFW·MIA·ORD… / SEA / HNL |
 | 歐洲 | 英國航空 British Airways、西班牙 Iberia、芬蘭航空 Finnair | **LHR** / MAD / **HEL** |
 | 中東·非洲 | 卡達航空 Qatar、**阿曼航空 Oman Air**、摩洛哥皇家航空、約旦皇家航空 | **DOH** / MCT / CMN / AMM |
